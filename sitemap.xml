@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://knlowman.github.io/</loc>
-    <lastmod>2025-12-31T17:20:08-05:00</lastmod>
+    <lastmod>2025-12-31T17:49:26-05:00</lastmod>
   </url><url>
-    <loc>https://knlowman.github.io/posts/mypost/</loc>
-    <lastmod>2025-12-31T17:20:08-05:00</lastmod>
+    <loc>https://knlowman.github.io/post/</loc>
+    <lastmod>2025-12-31T17:49:26-05:00</lastmod>
   </url><url>
-    <loc>https://knlowman.github.io/posts/</loc>
+    <loc>https://knlowman.github.io/post/testpost/</loc>
+    <lastmod>2025-12-31T17:49:26-05:00</lastmod>
+  </url><url>
+    <loc>https://knlowman.github.io/post/mypost/</loc>
     <lastmod>2025-12-31T17:20:08-05:00</lastmod>
   </url><url>
     <loc>https://knlowman.github.io/categories/</loc>
