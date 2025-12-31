@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kiera Lowman</title>
+    <link>https://knlowman.github.io/</link>
+    <description>Recent content on Kiera Lowman</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Dec 2025 17:20:08 -0500</lastBuildDate>
+    <atom:link href="https://knlowman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My test post</title>
+      <link>https://knlowman.github.io/posts/mypost/</link>
+      <pubDate>Wed, 31 Dec 2025 17:20:08 -0500</pubDate>
+      <guid>https://knlowman.github.io/posts/mypost/</guid>
+      <description>&lt;p&gt;This is some content.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
